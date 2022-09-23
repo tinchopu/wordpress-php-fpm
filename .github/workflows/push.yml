@@ -1,4 +1,4 @@
-name: docker-buil-pipeline
+name: docker-build-pipeline
 on: push
 jobs:
     deploy:
