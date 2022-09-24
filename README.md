@@ -1,2 +1,2 @@
 # wordpress-php-fpm
-This repository generates a Docker image for running a FPM container for wordpress
+Minimal Php-FPM Image for running Wordpress. This image will be used in a Kubernetes Deployment.
